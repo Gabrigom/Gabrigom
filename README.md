@@ -2,9 +2,10 @@
 
 Sou Vinicius Gabriel, tenho 23 anos e sou formado em técnico de informática. Estou à procura do meu primeiro emprego, a fim tanto de reforçar habilidades pessoais quanto acrescentar em resultados à organização a qual farei parte. Tenho interesse nas linguagens de programação Python e C#, frameworks Django e .NET, respectivamente. Prazer em te conhecer!
 
+Email para contato: vgabrigom@gmail.com
+
 ## Conecte-se comigo
 
-[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-A44DDA?style=for-the-badge)](https://web.dio.me/users/vgabrigom)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabrigom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-gabriel-m-gomes-aa63431a2/)
 
