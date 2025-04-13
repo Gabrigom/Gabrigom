@@ -1,10 +1,10 @@
 # Vinícius Gomes
 
-Sou Vinicius Gabriel, tenho 24 anos e sou formado em técnico de informática. Estou à procura do meu primeiro emprego na área de desenvolvimento, a fim tanto de reforçar habilidades pessoais quanto acrescentar em resultados à organização a qual farei parte. Tenho interesse nas linguagens de programação Python e JS com frameworks Node.js e Flask. Prazer em te conhecer!
+24 years old software developer, pleasure to meet you!
 
-## Conecte-se comigo
+## Connect with me
 
-Email para contato: vgabrigom@gmail.com
+Email: vgabrigom@gmail.com
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabrigom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vgmg)
